@@ -33,7 +33,7 @@ This project demonstrates how to perform network scanning using Nmap (Network Ma
 **Insight:**
 These ports indicate active local services. Port 445 (SMB) is particularly important as it is often targeted in lateral movement attacks.
 
-![Localhost Scan](local-host.png)
+![Localhost Scan](local-host scan.png)
 
 ---
 
